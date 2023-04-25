@@ -1,1 +1,3 @@
-# my_projects
+
+<h1 align="center"> Привет! Я - Лена ></h1>
+<h3 align="center"> А это мои небольшие проекты... ❣️ </h3>
