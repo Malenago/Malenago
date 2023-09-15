@@ -3,17 +3,6 @@
 
 <h3 align="center"> А это Git с моими проектами и наработками...  </h3>
 
----
-
-Обо мне 🤲🏻:
-
-- Учусь бэку на Python (преимущественно - Django) 
-- Обучаюсь в ИТМО'26, ФИКТ - инфокоммуникации 
-- Работаю в Parta
-- Занимаюсь репетиторством и готовлю выпускников к ЕГЭ по информатике 
-- А также очень люблю Python!!! 
-
----
 
 Мои навыки и опыт🤸🏻:
 
@@ -32,11 +21,6 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
----
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
